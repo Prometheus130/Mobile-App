@@ -21,7 +21,7 @@
 
     <plugin name="cordova-plugin-device-orientation" />
 	
-	<icon src="Images/favicon.ico" />
+	<icon src="Images/favicon.png" />
 	<gap:splash src="Images/Background.jpg" />
 
 </widget>
